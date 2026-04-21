@@ -1,0 +1,2 @@
+2026-04-21 12:23:43,962 - INFO - Order: {'orderId': 123456, 'status': 'FILLED', 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'executedQty': 0.001, 'avgPrice': None}
+2026-04-21 12:27:21,771 - INFO - Order: {'orderId': 123456, 'status': 'FILLED', 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'executedQty': 0.001, 'avgPrice': 50000.0}
